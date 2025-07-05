@@ -1,0 +1,314 @@
+{
+  "general_info": {
+    "region": "Воронежская область",
+    "district": "Коминтерновский район",
+    "city": "Воронеж",
+    "address": "г. Воронеж, ул. Лизюкова, д. 97 кв. 18 ",
+    "housing_type": "МКД",
+    "floor": "5",
+    "total_floors": "9",
+    "resident_name": "Агафонов Александр Юрьевич",
+    "nosology": "АН",
+    "inspection_date": "24.05.25",
+    "inspector_name": "Попов Александр Владимирович",
+    "inspector_phone": "89601016111 вотсап, 89009253594",
+    "inspector_email": "dostupvrn@yandex.ru"
+  },
+  "territory_items": [
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    }
+  ],
+  "entrance_items": [
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    }
+  ],
+  "movement_items": [
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    }
+  ],
+  "apartment_items": [
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    }
+  ],
+  "room_equipment_items": [
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    }
+  ],
+  "kitchen_items": [
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    }
+  ],
+  "bathroom_items": [
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    }
+  ],
+  "bathroom_equipment_items": [
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    },
+    {
+      "result": "",
+      "recommendations": [],
+      "custom_recommendation": "",
+      "quantities": {}
+    }
+  ],
+  "territory_photos": [],
+  "entrance_photos": [],
+  "movement_photos": [],
+  "apartment_photos": [],
+  "kitchen_photos": [],
+  "bathroom_photos": [],
+  "signatures": {
+    "2.1": "",
+    "2.2": "",
+    "4.1": "",
+    "4.3": "",
+    "4.5": "",
+    "4.6": "",
+    "4.7": "",
+    "4.8.6": "",
+    "4.9.2": "",
+    "4.9.3": "",
+    "4.9.4": "",
+    "4.9.5": "",
+    "4.9.6": "",
+    "5.1": "",
+    "5.3": "",
+    "5.4.1": "",
+    "5.4.2": "",
+    "5.4.3": "",
+    "5.4.4": "",
+    "5.4.5": "",
+    "5.4.6": "",
+    "5.4.7": ""
+  },
+  "meta": {
+    "project_name": "Воронеж_Коминтерновский район_Агафонов_24.05.25",
+    "created_date": "2025-06-10T01:25:15.913992",
+    "app_version": "1.1.0"
+  }
+}
